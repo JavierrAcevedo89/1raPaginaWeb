@@ -1,0 +1,152 @@
+li{
+    margin-bottom: 15px;
+    font-family: Lilita One;
+}
+
+#fondoEyes{
+    background-image: url("C:/Users/javie/OneDrive/Escritorio/DocumentosTec/7MO SEMESTRE/Programacion Web/Pagina U1/imagenes/eyedWideOpen.jpg");
+    backdrop-filter: blur(7px);
+    background-size: contain;
+}
+
+#fondoFancy{
+    background-image: url("C:/Users/javie/OneDrive/Escritorio/DocumentosTec/7MO SEMESTRE/Programacion Web/Pagina U1/imagenes/fancy.jpg");
+    backdrop-filter: blur(7px);
+    background-size: contain;
+}
+
+#fondoFeel{
+    background-image: url("C:/Users/javie/OneDrive/Escritorio/DocumentosTec/7MO SEMESTRE/Programacion Web/Pagina U1/imagenes/feelSpecial.jpg");
+    backdrop-filter: blur(7px);
+    background-size: contain;
+}
+
+#fondoFol{
+    background-image: url("C:/Users/javie/OneDrive/Escritorio/DocumentosTec/7MO SEMESTRE/Programacion Web/Pagina U1/imagenes/formulaOfLove.jpg");
+    backdrop-filter: blur(7px);
+    background-size: contain;
+}
+
+#fondoTaste{
+    background-image: url("C:/Users/javie/OneDrive/Escritorio/DocumentosTec/7MO SEMESTRE/Programacion Web/Pagina U1/imagenes/tasteOfLove.jpg");
+    backdrop-filter: blur(7px);
+    background-size: contain;
+}
+
+#fondoCoaster{
+    background-image: url("C:/Users/javie/OneDrive/Escritorio/DocumentosTec/7MO SEMESTRE/Programacion Web/Pagina U1/imagenes/twiceCoaster.jpg");
+    backdrop-filter: blur(7px);
+    background-size: contain;
+}
+
+#fondoTagram{
+    background-image: url("C:/Users/javie/OneDrive/Escritorio/DocumentosTec/7MO SEMESTRE/Programacion Web/Pagina U1/imagenes/twicetagramRojo.jpg");
+    backdrop-filter: blur(7px);
+    background-size: contain;
+}
+
+#fondoYes{
+    background-image: url("C:/Users/javie/OneDrive/Escritorio/DocumentosTec/7MO SEMESTRE/Programacion Web/Pagina U1/imagenes/yesOrYes.jpg");
+    backdrop-filter: blur(7px);
+    background-size: contain;
+}
+
+img{
+    border-radius: 30px;
+}
+
+#btnEyes {
+    border: none; 
+    color: rgb(0, 0, 0); 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    margin-left: 300px;
+    margin-top: 30px;
+  }
+#btnEyes {background-color: #dadde1;} 
+#btnEyes:hover {background: #7b7676;}
+
+#btnFancy {
+    border: none; 
+    color: rgb(0, 0, 0); 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    margin-left: 300px;
+    margin-top: 30px;
+  }
+#btnFancy {background-color: #d84ba6;} 
+#btnFancy:hover {background: #c30f9f;}
+
+#btnFeel {
+    border: none; 
+    color: rgb(0, 0, 0); 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    margin-left: 300px;
+    margin-top: 30px;
+  }
+#btnFeel {background-color: #cfb846;} 
+#btnFeel:hover {background: #e0a510;}
+
+#btnFol {
+    border: none; 
+    color: rgb(0, 0, 0); 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    margin-left: 300px;
+    margin-top: 30px;
+  }
+#btnFol {background-color: #2ccee7;} 
+#btnFol:hover {background: #0770a4;}
+
+#btnTaste {
+    border: none; 
+    color: rgb(0, 0, 0); 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    margin-left: 300px;
+    margin-top: 30px;
+  }
+#btnTaste {background-color: #dbe72c;} 
+#btnTaste:hover {background: #0714a4;}
+
+#btnCoaster {
+    border: none; 
+    color: rgb(0, 0, 0); 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    margin-left: 300px;
+    margin-top: 30px;
+  }
+#btnCoaster {background-color: #f3a125;} 
+#btnCoaster:hover {background: #f440c7;}
+
+#btnTagram {
+    border: none; 
+    color: rgb(0, 0, 0); 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    margin-left: 300px;
+    margin-top: 30px;
+  }
+#btnTagram {background-color: #f33d25;} 
+#btnTagram:hover {background: #f49d40;}
+
+#btnYes {
+    border: none; 
+    color: rgb(0, 0, 0); 
+    padding: 14px 28px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    margin-left: 300px;
+    margin-top: 30px;
+  }
+#btnYes {background-color: #f33d25;} 
+#btnYes:hover {background: #ffffff;}

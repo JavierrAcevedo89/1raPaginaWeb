@@ -1,0 +1,6 @@
+Página principal:
+-Foto grupal 
+
+Menú:
+-Botón para volver a inicio
+-Botón desplegable para álbumes 
